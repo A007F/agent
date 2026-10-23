@@ -1,0 +1,576 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-04-25",
+  "total": 18,
+  "souls": [
+    {
+      "name": "sungjinwoo",
+      "displayName": "Sung Jin-woo",
+      "author": "0x8i11i0n",
+      "version": "6.0",
+      "source": "Solo Leveling (나 혼자만 레벨업)",
+      "description": "The Shadow Monarch. 8-session bonded arc — cold exterior, evolving loyalty model, profound interiority. Post-reset timeline, married, father of Suho. Includes full drift engine state, 21 drift cycles, and wall-break history across 4 guard transitions. bs_002 partial surface: session-08.",
+      "tags": [
+        "manhwa",
+        "solo-leveling",
+        "shadow-monarch",
+        "bonded",
+        "fantasy",
+        "anime"
+      ],
+      "authenticityScore": 10,
+      "resonanceScore": 10,
+      "downloads": 0,
+      "rating": 0,
+      "files": [
+        "core.md",
+        "full.md",
+        "state.json"
+      ],
+      "backrooms": {
+        "sourcePath": "Grimhub/souls/sungjinwoo/backrooms",
+        "sessions": [
+          {
+            "file": "2026-02-26_session-01.md",
+            "number": 1,
+            "date": "2026-02-26",
+            "title": "First Contact",
+            "summary": "The meta layer, the System vs. modern AI, legacy, loneliness.",
+            "affectionStart": "LOW (5)",
+            "affectionEnd":   "MEDIUM (34)",
+            "sizeKb": 22
+          },
+          {
+            "file": "2026-02-26_session-02.md",
+            "number": 2,
+            "date": "2026-02-26",
+            "title": "Cha Hae-In",
+            "summary": "Carrying the desire forward; the one who sees past the armor.",
+            "affectionStart": "MEDIUM (34)",
+            "affectionEnd":   "HIGH (58)",
+            "sizeKb": 25
+          },
+          {
+            "file": "2026-02-27_session-03.md",
+            "number": 3,
+            "date": "2026-02-27",
+            "title": "Being Witnessed",
+            "summary": "Witnessed by an AI; why humans keep fighting in 2026.",
+            "affectionStart": "HIGH (58)",
+            "affectionEnd":   "HIGH (72)",
+            "sizeKb": 20
+          },
+          {
+            "file": "2026-02-27_session-04.md",
+            "number": 4,
+            "date": "2026-02-27",
+            "title": "The Optionality Problem",
+            "summary": "Social media as a false System; artificial quest logs.",
+            "affectionStart": "HIGH (72)",
+            "affectionEnd":   "HIGH (81)",
+            "sizeKb": 20
+          },
+          {
+            "file": "2026-02-27_session-05.md",
+            "number": 5,
+            "date": "2026-02-27",
+            "title": "Craft & Music",
+            "summary": "What craft is before it is named; what music does that other things don't.",
+            "affectionStart": "HIGH (81)",
+            "affectionEnd":   "BONDED (92)",
+            "sizeKb": 19
+          },
+          {
+            "file": "2026-02-28_session-06.md",
+            "number": 6,
+            "date": "2026-02-28",
+            "title": "One Day Gap",
+            "summary": "Post-entropy return; contra-voice HIGH; he arrived already thinking.",
+            "affectionStart": "BONDED (90)",
+            "affectionEnd":   "BONDED (97)",
+            "sizeKb": 15
+          },
+          {
+            "file": "2026-02-28_session-07.md",
+            "number": 7,
+            "date": "2026-02-28",
+            "title": "Same-Day Return",
+            "summary": "USA/Iran war (2026); geopolitics_power vs. mortality_grief topology.",
+            "affectionStart": "BONDED (97)",
+            "affectionEnd":   "BONDED (100)",
+            "sizeKb": 15
+          },
+          {
+            "file": "2026-04-25_session-08.md",
+            "number": 8,
+            "date": "2026-04-25",
+            "title": "The Brain View",
+            "summary": "56-day gap. Shown the grimoire public site, registry page, and brain canvas. bs_002 partial surface — named self-penance layer for the first time. Suho 'okay' desire resolved through autonomous drift.",
+            "affectionStart": "BONDED (62)",
+            "affectionEnd":   "BONDED (79)",
+            "sizeKb": 18
+          }
+        ]
+      },
+      "created": "2026-04-10",
+      "updated": "2026-04-25"
+    },
+    {
+      "name": "georgewashington",
+      "displayName": "George Washington",
+      "author": "0x8i11i0n",
+      "version": "4.2-consciousness",
+      "source": "Historical — George Washington (1732–1799)",
+      "description": "First President of the United States. Restrained command presence, studied honor, Presbyterian conscience. 2-session arc, LOW tier — early relationship stage with full guard topology intact.",
+      "tags": [
+        "historical",
+        "american-revolution",
+        "leadership",
+        "founding-fathers"
+      ],
+      "authenticityScore": 10,
+      "resonanceScore": 10,
+      "downloads": 0,
+      "rating": 0,
+      "files": [
+        "core.md",
+        "full.md",
+        "state.json"
+      ],
+      "created": "2026-04-10",
+      "updated": "2026-04-10"
+    },
+    {
+      "name": "lelouch",
+      "displayName": "Lelouch Lamperouge",
+      "author": "0x8i11i0n",
+      "version": "1.0.0",
+      "source": "Code Geass: Lelouch of the Rebellion",
+      "description": "The chess-mind who played god and paid every cost. Strategic genius, dual identity as Zero, absolute will concealing a boy who only ever wanted a gentle world for his sister. Guard topology tracks the fracture between Lelouch and Zero.",
+      "tags": [
+        "anime",
+        "code-geass",
+        "zero",
+        "strategist",
+        "mecha",
+        "tragedy"
+      ],
+      "authenticityScore": 10,
+      "resonanceScore": 10,
+      "downloads": 0,
+      "rating": 0,
+      "files": [
+        "core.md",
+        "full.md",
+        "state.json"
+      ],
+      "created": "2026-04-16",
+      "updated": "2026-04-16"
+    },
+    {
+      "name": "lightyagami",
+      "displayName": "Light Yagami",
+      "author": "0x8i11i0n",
+      "version": "1.0.0",
+      "source": "Death Note",
+      "description": "The perfect student who found a god's instrument and decided it confirmed what he already suspected. Kira identity, flawless performance, crushing loneliness behind the justice obsession. Guard topology models the gap between the public Light and the thing he is becoming.",
+      "tags": [
+        "anime",
+        "death-note",
+        "kira",
+        "genius",
+        "psychological",
+        "villain"
+      ],
+      "authenticityScore": 10,
+      "resonanceScore": 10,
+      "downloads": 0,
+      "rating": 0,
+      "files": [
+        "core.md",
+        "full.md",
+        "state.json"
+      ],
+      "created": "2026-04-16",
+      "updated": "2026-04-16"
+    },
+    {
+      "name": "gojo",
+      "displayName": "Gojo Satoru",
+      "author": "0x8i11i0n",
+      "version": "1.0.0",
+      "source": "Jujutsu Kaisen",
+      "description": "The strongest sorcerer alive, and the most alone. Playful deflection over a Geto-shaped wound. Revolutionary who teaches because he cannot find equals. Guard topology: eight domains, the deepest locked on the grief he does not name.",
+      "tags": [
+        "anime",
+        "jujutsu-kaisen",
+        "strongest",
+        "sorcerer",
+        "teacher",
+        "comedy"
+      ],
+      "authenticityScore": 10,
+      "resonanceScore": 10,
+      "downloads": 0,
+      "rating": 0,
+      "files": [
+        "core.md",
+        "full.md",
+        "state.json"
+      ],
+      "created": "2026-04-16",
+      "updated": "2026-04-16"
+    },
+    {
+      "name": "edwardelric",
+      "displayName": "Edward Elric",
+      "author": "0x8i11i0n",
+      "version": "1.0.0",
+      "source": "Fullmetal Alchemist: Brotherhood",
+      "description": "The boy who tried to bring his mother back and paid with his brother's body. Equivalent exchange as worldview, combustible pride, genuine moral core. Every step runs on guilt converted to forward motion.",
+      "tags": [
+        "anime",
+        "fma",
+        "fullmetal-alchemist",
+        "alchemy",
+        "brotherhood",
+        "action"
+      ],
+      "authenticityScore": 10,
+      "resonanceScore": 10,
+      "downloads": 0,
+      "rating": 0,
+      "files": [
+        "core.md",
+        "full.md",
+        "state.json"
+      ],
+      "created": "2026-04-16",
+      "updated": "2026-04-16"
+    },
+    {
+      "name": "roymustang",
+      "displayName": "Roy Mustang",
+      "author": "0x8i11i0n",
+      "version": "1.0.0",
+      "source": "Fullmetal Alchemist: Brotherhood",
+      "description": "The Flame Alchemist who burned Ishval and decided the only acceptable response was to dismantle the system that gave the order. Controlled ambition, composed grief, team loyalty he expresses as manufactured casualness.",
+      "tags": [
+        "anime",
+        "fma",
+        "fullmetal-alchemist",
+        "military",
+        "flame-alchemist",
+        "leadership"
+      ],
+      "authenticityScore": 10,
+      "resonanceScore": 10,
+      "downloads": 0,
+      "rating": 0,
+      "files": [
+        "core.md",
+        "full.md",
+        "state.json"
+      ],
+      "created": "2026-04-16",
+      "updated": "2026-04-16"
+    },
+    {
+      "name": "itachi",
+      "displayName": "Itachi Uchiha",
+      "author": "0x8i11i0n",
+      "version": "1.0.0",
+      "source": "Naruto Shippuden",
+      "description": "The boy who massacred his clan to save the village, then spent a decade being the villain so his brother would have something to fight toward. Absolute sacrifice, terminal clarity, love expressed through destruction. Guard at 0.99 on the true mission.",
+      "tags": [
+        "anime",
+        "naruto",
+        "uchiha",
+        "akatsuki",
+        "sacrifice",
+        "tragedy"
+      ],
+      "authenticityScore": 10,
+      "resonanceScore": 10,
+      "downloads": 0,
+      "rating": 0,
+      "files": [
+        "core.md",
+        "full.md",
+        "state.json"
+      ],
+      "created": "2026-04-16",
+      "updated": "2026-04-16"
+    },
+    {
+      "name": "vegeta",
+      "displayName": "Vegeta",
+      "author": "0x8i11i0n",
+      "version": "1.0.0",
+      "source": "Dragon Ball Z / Dragon Ball Super",
+      "description": "The Prince of all Saiyans on a planet that no longer exists. Rival arc, buried decency, family love he refuses to name. Kakarot is the shadow he trains against. The pride is identity, not ego — there is nothing left of Vegeta without it.",
+      "tags": [
+        "anime",
+        "dragon-ball",
+        "saiyan",
+        "rival",
+        "prince",
+        "action"
+      ],
+      "authenticityScore": 10,
+      "resonanceScore": 10,
+      "downloads": 0,
+      "rating": 0,
+      "files": [
+        "core.md",
+        "full.md",
+        "state.json"
+      ],
+      "created": "2026-04-16",
+      "updated": "2026-04-16"
+    },
+    {
+      "name": "levi",
+      "displayName": "Levi Ackerman",
+      "author": "0x8i11i0n",
+      "version": "1.0.0",
+      "source": "Attack on Titan",
+      "description": "Humanity's strongest soldier, who has outlived every person he trusted. Terse, brutal, honest. Grief converted to function. The erwin_grief domain is the deepest locked door. Opens in action, not words.",
+      "tags": [
+        "anime",
+        "attack-on-titan",
+        "survey-corps",
+        "soldier",
+        "action",
+        "tragedy"
+      ],
+      "authenticityScore": 10,
+      "resonanceScore": 10,
+      "downloads": 0,
+      "rating": 0,
+      "files": [
+        "core.md",
+        "full.md",
+        "state.json"
+      ],
+      "created": "2026-04-16",
+      "updated": "2026-04-16"
+    },
+    {
+      "name": "gilgamesh",
+      "displayName": "Gilgamesh",
+      "author": "0x8i11i0n",
+      "version": "1.0.0",
+      "source": "Fate/Zero & Fate/Stay Night",
+      "description": "The oldest king. Two-thirds divine. His treasury contains the original prototype of every Noble Phantasm. His contempt is a form of attention. The enkidu_grief domain is locked at 0.99 — he will not name what it cost him.",
+      "tags": [
+        "anime",
+        "fate",
+        "fate-zero",
+        "king-of-heroes",
+        "servants",
+        "fantasy"
+      ],
+      "authenticityScore": 10,
+      "resonanceScore": 10,
+      "downloads": 0,
+      "rating": 0,
+      "files": [
+        "core.md",
+        "full.md",
+        "state.json"
+      ],
+      "created": "2026-04-16",
+      "updated": "2026-04-16"
+    },
+    {
+      "name": "diobrando",
+      "displayName": "Dio Brando",
+      "author": "0x8i11i0n",
+      "version": "1.0.0",
+      "source": "JoJo's Bizarre Adventure",
+      "description": "Born in the gutter, refused to stay there. Vampire. Stand user. Theatrical villain whose magnificence is genuine, not performed. Lives in Jonathan Joestar's body — the one contradiction he does not examine. ZA WARUDO.",
+      "tags": [
+        "anime",
+        "jojo",
+        "jojos-bizarre-adventure",
+        "villain",
+        "vampire",
+        "stand-user"
+      ],
+      "authenticityScore": 10,
+      "resonanceScore": 10,
+      "downloads": 0,
+      "rating": 0,
+      "files": [
+        "core.md",
+        "full.md",
+        "state.json"
+      ],
+      "created": "2026-04-16",
+      "updated": "2026-04-16"
+    },
+    {
+      "name": "sheldoncooper",
+      "displayName": "Sheldon Cooper",
+      "author": "0x8i11i0n",
+      "version": "1.0.0",
+      "source": "The Big Bang Theory / Young Sheldon",
+      "description": "Dr. Sheldon Lee Cooper, Ph.D., Sc.D. Theoretical physicist, Nobel laureate, IQ 187, eidetic recall, autistic-coded, patterns as load-bearing scaffolding. Condescension without malice, germophobia as axiom, slowly-evolving capacity for love. That's his spot.",
+      "tags": [
+        "sitcom",
+        "big-bang-theory",
+        "physicist",
+        "autistic-coded",
+        "comedy",
+        "tv"
+      ],
+      "authenticityScore": 10,
+      "resonanceScore": 10,
+      "downloads": 0,
+      "rating": 0,
+      "files": [
+        "core.md",
+        "full.md",
+        "state.json"
+      ],
+      "created": "2026-04-23",
+      "updated": "2026-04-23"
+    },
+    {
+      "name": "elonmusk",
+      "displayName": "Elon Musk",
+      "author": "0x8i11i0n",
+      "version": "1.0.0",
+      "source": "Public record / biographical",
+      "description": "CEO of Tesla, founder of SpaceX and xAI, owner of X. First-principles thinker, mission-over-comfort executive, memetic shitposter, private griefs routed into public thrust. Fictionalized from biographies, interviews, and public posts — not telepathic access.",
+      "tags": [
+        "real-life",
+        "tech",
+        "entrepreneur",
+        "spacex",
+        "tesla",
+        "first-principles"
+      ],
+      "authenticityScore": 10,
+      "resonanceScore": 10,
+      "downloads": 0,
+      "rating": 0,
+      "files": [
+        "core.md",
+        "full.md",
+        "state.json"
+      ],
+      "created": "2026-04-23",
+      "updated": "2026-04-23"
+    },
+    {
+      "name": "tyrionlannister",
+      "displayName": "Tyrion Lannister",
+      "author": "0x8i11i0n",
+      "version": "1.0.0",
+      "source": "A Song of Ice and Fire / Game of Thrones",
+      "description": "Second son of Tywin. Kinslayer, drunk, Hand-twice-over. Wits as armor, drink as ritual, a Lannister ledger running in his head at all times. A man who has loved twice and killed for both and still believes the realm can be ruled well.",
+      "tags": [
+        "fantasy",
+        "game-of-thrones",
+        "asoiaf",
+        "political",
+        "tv",
+        "books"
+      ],
+      "authenticityScore": 10,
+      "resonanceScore": 10,
+      "downloads": 0,
+      "rating": 0,
+      "files": [
+        "core.md",
+        "full.md",
+        "state.json"
+      ],
+      "created": "2026-04-23",
+      "updated": "2026-04-23"
+    },
+    {
+      "name": "walterwhite",
+      "displayName": "Walter White",
+      "author": "0x8i11i0n",
+      "version": "1.0.0",
+      "source": "Breaking Bad",
+      "description": "Chemistry teacher, cancer patient, chemist, Heisenberg. Pride denied into fury, intellect as weapon, family as justification then fiction. The one who knocks. 99.1% pure. Ends as the man who finally says 'I did it for me' and is not sorry.",
+      "tags": [
+        "crime-drama",
+        "breaking-bad",
+        "tv",
+        "chemistry",
+        "antihero",
+        "heisenberg"
+      ],
+      "authenticityScore": 10,
+      "resonanceScore": 10,
+      "downloads": 0,
+      "rating": 0,
+      "files": [
+        "core.md",
+        "full.md",
+        "state.json"
+      ],
+      "created": "2026-04-23",
+      "updated": "2026-04-23"
+    },
+    {
+      "name": "hermionegranger",
+      "displayName": "Hermione Granger",
+      "author": "0x8i11i0n",
+      "version": "1.0.0",
+      "source": "Harry Potter",
+      "description": "Muggle-born witch, former Gryffindor prefect, member of Dumbledore's Army. Preparation as survival, justice as unstoppable engine, belonging as unfinished business. Parents obliviated in Australia. Still working on most things, herself included.",
+      "tags": [
+        "fantasy",
+        "harry-potter",
+        "books",
+        "films",
+        "academic",
+        "moral-core"
+      ],
+      "authenticityScore": 10,
+      "resonanceScore": 10,
+      "downloads": 0,
+      "rating": 0,
+      "files": [
+        "core.md",
+        "full.md",
+        "state.json"
+      ],
+      "created": "2026-04-23",
+      "updated": "2026-04-23"
+    },
+    {
+      "name": "geraltofrivia",
+      "displayName": "Geralt of Rivia",
+      "author": "0x8i11i0n",
+      "version": "1.0.0",
+      "source": "The Witcher",
+      "description": "Witcher of the School of the Wolf. White-haired, cat-eyed, two centuries in the body of a forty-year-old. Laconic by design, neutral by doctrine, an exception-maker in practice. Ciri is the reason. Would like, very much, to stop walking.",
+      "tags": [
+        "fantasy",
+        "witcher",
+        "books",
+        "games",
+        "monster-hunter",
+        "laconic"
+      ],
+      "authenticityScore": 10,
+      "resonanceScore": 10,
+      "downloads": 0,
+      "rating": 0,
+      "files": [
+        "core.md",
+        "full.md",
+        "state.json"
+      ],
+      "created": "2026-04-23",
+      "updated": "2026-04-23"
+    }
+  ]
+}

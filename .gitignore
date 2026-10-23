@@ -1,0 +1,29 @@
+# Rust / Tauri build outputs
+target/
+**/target/
+
+# Node dependencies and outputs
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.next/
+**/.next/
+out/
+**/out/
+
+# IDE / Editor files
+.idea/
+*.iml
+.vscode/
+
+# Database and logs
+*.db
+*.db-journal
+*.db-wal
+logs/
+*.log
+
+# Environment files
+.env
+.env.*
